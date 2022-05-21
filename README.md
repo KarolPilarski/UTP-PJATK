@@ -1,1 +1,3 @@
-# UTP_PJATK
+# UTP
+
+Uniwersalne Technki Programowania (3 semestr PJATK)
